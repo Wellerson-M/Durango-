@@ -1,0 +1,31 @@
+.barra{
+    height: 25px;
+    background-color:#165C15 ;
+}
+nav
+{
+    
+    height: 90px;
+    background-color:#A60303;
+    
+}
+
+.txt-nav
+{
+    margin-top:4.80%;
+    
+}
+
+.logo
+{
+
+    padding-top: 18%;    
+    width: 130px;
+}
+
+footer
+{
+    height: 222px;   
+    align-items: self-end; 
+    background-color: #A60303; 
+}
